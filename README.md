@@ -1,3 +1,18 @@
+Ce repository contient le Back
+end de l'application web de la
+ plateforme de veille Juridique
+ (EasyLaw), développée par
+ l'équipe ITouch  en Flask  python
+ dans le cadre du projet de
+ spécialité (2CS-SIL) à l'ESI.
+ Ce repository contient
+ principalement la logique
+ d’authentification , users
+ management,subscriptions and
+ payment,create and get plans,
+ seperate access for each
+ search....
+
 ## Getting Started
 
 ### Pull and run docker image
